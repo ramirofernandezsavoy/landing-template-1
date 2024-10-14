@@ -1,0 +1,19 @@
+<svg width="171" height="171" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M7 7h157v92a65 65 0 0 1-65 65H7V7Z" stroke="#000" stroke-width="14"/>
+  <path d="M64.28 104.08 33.56 90.9V76.56l30.72-13.18v15.36l-11.65 4.99 11.65 4.99v15.36Zm3.88 26.5 13.7-96.9h18.3l-13.7 96.9h-18.3Zm35.78-26.5V88.72l11.64-5-11.64-4.98V63.38l30.72 13.18V90.9l-30.72 13.18Z" fill="#000"/>
+  <g clip-path="url(#a)">
+    <path d="M7 7h157v92a65 65 0 0 1-65 65H7V7Z" stroke="#000" stroke-width="14"/>
+    <path d="M64.28 104.08 33.56 90.9V76.56l30.72-13.18v15.36l-11.65 4.99 11.65 4.99v15.36Zm3.88 26.5 13.7-96.9h18.3l-13.7 96.9h-18.3Zm35.78-26.5V88.72l11.64-5-11.64-4.98V63.38l30.72 13.18V90.9l-30.72 13.18Z" fill="#000"/>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h171v171H0z"/>
+    </clipPath>
+  </defs>
+</svg>
+    <style>
+        path { fill: #000; }
+        @media (prefers-color-scheme: dark) {
+            path {fill: #FFF}
+        }
+    </style>
